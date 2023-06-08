@@ -1,1 +1,5 @@
-# chinese-language-reform-materials-collection
+# 拼音、注音、文字改革资料收集
+
+up主很懒，这两天懒得写注释
+
+仓库里面逛逛，相信是别有一番风景的～
